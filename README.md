@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Niklas 👋
 
-<!--
-**Niklas-Vogt-dev/Niklas-Vogt-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Sc. Computer Science** | Würzburg, Germany
 
-Here are some ideas to get you started:
+**Software Developer** focused on **C, C++, C# and .NET**. Building practical software and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+`C` · `C++` · `C#` · `.NET` · `WPF` · `Python` · `Java` · `SQLite` · `Git`
+
+### Featured Project
+
+**[Expense Tracker](https://github.com/Niklas-Vogt-dev/expense-tracker)**
+C# · .NET 8 · WPF · SQLite

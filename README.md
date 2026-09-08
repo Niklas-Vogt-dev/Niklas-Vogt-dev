@@ -8,9 +8,14 @@
 
 `C` · `C++` · `C#` · `.NET` · `WPF` · `Python` · `Java` · `SQLite` · `Git`
 
-### Featured Project
+### Featured Projects
 
 **[Expense Tracker](https://github.com/Niklas-Vogt-dev/expense-tracker)**
 Full-featured personal finance application built from scratch with transaction management, filtering, statistics and persistent data storage.
 
 `C#` · `.NET 8` · `WPF` · `SQLite`
+
+**[Embedded System Simulator](https://github.com/Niklas-Vogt-dev/embedded-system-simulator)**
+Software-based C++ simulator for modeling and monitoring an embedded system.
+
+`C++` · `OOP` · `FSM` · `Watchdog` · `Unit Testing`
